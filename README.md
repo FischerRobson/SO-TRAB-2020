@@ -5,3 +5,4 @@ No arquivo main.c está disponivel o algoritmo comentado e elaborado para gerenc
 $ gcc main.c -o "nome do exe" -pthread
 $ ./"nome do exe"
 Será solicitada uma quantidade de linhas, que fica a cargo de quem está executando preencher.
+Nesse repositório também está contida a chave de acesso para a instância, e o processo de conexão está detalhado no relatório e vídeo do grupo.
